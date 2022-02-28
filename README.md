@@ -1,1 +1,1 @@
-# DQLAN-Data-Analyst-Career-Track
+# DQLAB-Data-Analyst-Career-Track
